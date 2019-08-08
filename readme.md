@@ -3,7 +3,7 @@ Notes
 This repository contains the notes I created when preparing CFA. 
 Those notes were written using Microsoft Word in Mac. 
 A lot of latex math formulae were used, which cannot be correctly recognized in Windows. 
-Hence, I share the PDF format. 
+So I share the PDF here. 
 
 CFA Level 1
 ===========
