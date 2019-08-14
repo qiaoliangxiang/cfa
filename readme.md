@@ -23,3 +23,8 @@ I have passed the CFA level 1 (10A, top 10%) in Dec, 2018.
 CFA Level 2
 ===========
 I have passed the CFA level 2 (7A3B, top 10%) in June, 2019.
+
+Share
+===========
+* My FRM & CFA experience: https://zhuanlan.zhihu.com/p/77348657
+* How to learn FRM & CFA systematically:  https://zhuanlan.zhihu.com/p/77616841
