@@ -32,12 +32,15 @@ Share
 参考图片
 ======
 考试过程
+
 ![考试过程](https://raw.githubusercontent.com/qiaoliangxiang/cfa/master/image/history.png)
 
 学习体系
+
 ![学习体系](https://raw.githubusercontent.com/qiaoliangxiang/cfa/master/image/knowledge_system.png)
 
 参考书
+
 ![参考书](https://raw.githubusercontent.com/qiaoliangxiang/cfa/master/image/book.png)
 
 
