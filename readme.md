@@ -1,10 +1,10 @@
 Notes
 =====
 This repository contains the notes I created when preparing FRM & CFA. 
-Those notes were originally written using Microsoft Word in Mac. 
+They were originally written using Microsoft Word in Mac. 
 A lot of latex math formulae were used extensively, which 
 unfortunately cannot be correctly recognized in Windows. 
-So I share the PDF here. 
+Hence, their PDF version are shared here. 
 
 FRM Level 1
 ===========
