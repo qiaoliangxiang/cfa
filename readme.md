@@ -6,28 +6,45 @@ A lot of latex math formulae were used extensively, which
 unfortunately cannot be correctly recognized in Windows. 
 Hence, their PDF versions are shared here. 
 
-FRM Level 1
-===========
+Exam History
+============
+
+FRM1 
+----
+
 I have passed the FRM level 1 (4A) in May, 2018.
 
-FRM Level 2
-===========
+FRM2
+---- 
+
 I have passed the FRM level 2 (4A1C) in Nov, 2018. 
 Ranked A in the four major parts: market, credit, operational, and integrated risks.
 Ranked C in the current issues.
 
 CFA Level 1
-===========
+-----------
+
 I have passed the CFA level 1 (10A, top 10%) in Dec, 2018.
 
 CFA Level 2
-===========
+-----------
+
 I have passed the CFA level 2 (7A3B, top 10%) in June, 2019.
 
-Share
+
+考试经验分享
 ===========
 * My FRM & CFA experience: https://zhuanlan.zhihu.com/p/77348657
 * How to learn FRM & CFA systematically:  https://zhuanlan.zhihu.com/p/77616841
+
+考试笔记
+=======
+在各个目录的my notes里。
+
+* FRM1是第一次备考，不知道Mac下的Word也支持latex，因此公式格式写得不好看。
+* 从FRM2开始，用latex来写数学公式，排版好看。
+* FRM2里的special topics目录里是有一些专项研究和一些考友的问题解答。
+
 
 参考图片
 ======
