@@ -34,7 +34,7 @@ I have passed the CFA level 2 (7A3B, top 10%) in June, 2019.
 CFA Level 3
 -----------
 
-I have passed the CFA level 3 (top 10%, both essay and item set) in Dec, 2020. I intended to pass it in Dec. 2019, due to COVID-19, it was delayed twice.
+I have passed the CFA level 3 (top 10%, both essay and item set) in Dec, 2020. I intended to pass it in Dec. 2019. Due to COVID-19, it was delayed twice.
 
 
 考试经验分享
